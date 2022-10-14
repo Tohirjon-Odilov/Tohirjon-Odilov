@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muzaffar</h1>
+<h1 align="center">Hi 👋, I'm Tohirjon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
 
@@ -8,12 +8,12 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **muzaffarmasordinov@gmail.com**
+- 📫 How to reach me **tohirjonodilov19@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    My name is <strong>Muzaffar.</strong> Full name is <strong>Masordinov Muzaffar.</strong> I'm from <strong>DJizzakh. 18.y.o</strong>
+    My name is <strong>Tohirjon.</strong> Full name is <strong>Odilov Tohirjon.</strong> I'm from <strong>Andijan. 19.y.o</strong>
 </details>
 <details>
     <summary><b>🎭 My hobbies</b></summary><br/>
