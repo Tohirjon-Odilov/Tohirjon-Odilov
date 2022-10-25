@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tohirjon-Odilov&label=Profile%20views&color=0e75b6&style=flat" alt="Tohirjon-Odilov" /> </p>
 
-- 🌱 I’m currently learning **Fullstack**
+- 🌱 I’m currently learning **React.JS**
 
 - 💬 Ask me about **Frontend**
 
