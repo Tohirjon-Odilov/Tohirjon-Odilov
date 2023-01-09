@@ -44,6 +44,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight)
 
-    
-//##My contribution graph
+  
 ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif)
