@@ -43,11 +43,9 @@
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight) -->
-## **Github raiting**
+## **Github Stats:**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Tohirjon-Odilov/github-readme-stats) 
-   <p align="left">
-       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&layout=compact&theme=highcontrast)](https://github.com/Tohirjon-Odilov/github-readme-stats)
+<p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&layout=compact&theme=highcontrast)](https://github.com/Tohirjon-Odilov/github-readme-stats)
 </p>
   
 <!-- ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif) -->
