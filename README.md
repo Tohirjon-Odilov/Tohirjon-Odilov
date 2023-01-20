@@ -39,10 +39,10 @@
       </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.s-vg" alt=" " width="60" height="60" />
       </a> </p>
-<!--<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tohirjon-Odilov&show_icons=true&&theme=radical&locale=en&layout=compact" alt="Tohirjon-Odilov" /></p>-->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tohirjon-Odilov&show_icons=true&&theme=radical&locale=en&layout=compact" alt="Tohirjon-Odilov" /></p>
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight)
 
   
-<!-- ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif)
