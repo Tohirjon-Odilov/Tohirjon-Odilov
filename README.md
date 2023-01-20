@@ -39,10 +39,14 @@
       </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.s-vg" alt=" " width="60" height="60" />
       </a> </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tohirjon-Odilov&show_icons=true&&theme=radical&locale=en&layout=compact" alt="Tohirjon-Odilov" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tohirjon-Odilov&show_icons=true&&theme=radical&locale=en&layout=compact" alt="Tohirjon-Odilov" /></p> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight) -->
+    
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Ahliddin28/github-readme-stats)
 
   
-![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif) -->
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&layout=compact&theme=highcontrast)](https://github.com/Ahliddin28/github-readme-stats)
