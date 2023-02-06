@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tohirjon</h1>
+<!-- <h1 align="center">Hi 👋, I'm Tohirjon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
 
@@ -52,3 +52,4 @@
 <!-- ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif) -->
     
 
+ -->
