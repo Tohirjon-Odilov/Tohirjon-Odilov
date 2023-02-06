@@ -50,6 +50,3 @@
  -->
   
 <!-- ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif) -->
-    
-
- -->
