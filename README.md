@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,c" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,pycharm-community,figma,git,materialui" />
+    <img src="https://skillicons.dev/icons?i=github,git,python,javascript,c,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tohirjon-Odilov/Tohirjon-Odilov/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
