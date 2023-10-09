@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **MySQL, PyQt5**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **React, Firebase, MySQL... or anything [here](https://github.com/tohirjon-odilov/tohirjon-odilov/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,python,javascript,c,react" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma,mysql,pyqt5" />
 </div>
 
 <br/>
