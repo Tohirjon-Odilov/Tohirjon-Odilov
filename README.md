@@ -45,11 +45,11 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
+<!--   <br> -->
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tohirjon-Odilov/Tohirjon-Odilov/output/github-contribution-grid-snake.svg" /> -->
-  ![Snake animation](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/main/github-contribution-grid-snake.svg)
-  <br/><br/><br/>
+<!--   ![Snake animation](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/main/github-contribution-grid-snake.svg) -->
+<!--   <br/><br/><br/> -->
 </div>
 
 <hr/>
