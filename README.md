@@ -6,19 +6,19 @@
 
 <h3 align="center">A passionate developer from Uzbekistan. 🇺🇿</h3>
 
-<br/>
+<!-- <br/> -->
 
-<div align="center">
+<!-- <div align="center"> -->
  
- 🔭 I’m currently working on **a chat app**
+ <!-- 🔭 I’m currently working on **a chat app** -->
  
- 🌱 I’m currently learning **MySQL, PyQt5**
+ <!-- 🌱 I’m currently learning **MySQL, PyQt5** -->
 
- 💬 Ask me about **React, Firebase, MySQL... or anything [here](https://github.com/tohirjon-odilov/tohirjon-odilov/issues)**
+ <!--  💬 Ask me about **React, Firebase, MySQL... or anything [here](https://github.com/tohirjon-odilov/tohirjon-odilov/issues)**/ -->
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ <!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
  
- </div>
+ <!-- </div> -->
  
 <div align="center"> 
   <a href="mailto:tohirjonodilov19@gmail.com">
@@ -31,15 +31,15 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<!--
- <hr/>
+
+ <!-- <hr/> -->
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,javascript,c,react,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma,linkedin,netlify" />
-</div> -->
+<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> -->
+<!-- <br/> -->
+<!-- <div align="center"> -->
+    <!-- <img src="https://skillicons.dev/icons?i=git,github,linux,python,javascript,c,react,mysql" /><br> -->
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma,linkedin,netlify" /> -->
+<!-- </div> -->
 
 <br/>
 <!-- <hr/> -->
