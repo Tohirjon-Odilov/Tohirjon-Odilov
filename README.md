@@ -13,17 +13,17 @@
 <br><br>
 <div align=center>
     <img width=390 src="https://streak-stats.demolab.com/?user=Tohirjon-Odilov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+    <!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 
-<br/><br/>
-<hr/>
+<!-- <br/><br/> -->
+<!-- <hr/> -->
 
-<h3 align="center">
+<!-- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<img src="https://raw.githubusercontent.com/Tohirjon-Odilov/Tohirjon-Odilov/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tohirjon-Odilov/Tohirjon-Odilov/output/snake.svg" alt="Snake animation" /> -->
 
 ###
